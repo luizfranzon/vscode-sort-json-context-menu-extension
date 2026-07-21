@@ -1,10 +1,17 @@
 {
   "name": "sort-json-context-menu",
-  "displayName": "sort-json-context-menu",
-  "description": "",
+  "displayName": "Sort JSON Context Menu",
+  "description": "Ordena as chaves de arquivos JSON alfabeticamente direto pelo menu de contexto do Explorer.",
   "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "luizfranzon",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luizfranzon/vscode-sort-json-context-menu-extension.git"
+  },
   "engines": {
-    "vscode": "^1.110.0"
+    "vscode": "^1.125.0"
   },
   "categories": [
     "Other"

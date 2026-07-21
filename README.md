@@ -22,7 +22,7 @@ Extensão do VS Code que adiciona o comando **"Sort JSON Alphabetically"** ao me
 
 ## Requisitos
 
-- VS Code `^1.110.0`.
+- VS Code `^1.125.0`.
 
 ## Limitações Conhecidas
 
